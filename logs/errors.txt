@@ -1,0 +1,1 @@
+2020-04-25 10:59:20 (UTC) PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test_task.employee_task' doesn't exist = /core/Database.class.php = 61
