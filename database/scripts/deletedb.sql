@@ -1,1 +1,1 @@
-DROP DATABASE IF EXISTS `test_task`;
+DROP DATABASE IF EXISTS `training_task`;

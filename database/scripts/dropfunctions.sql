@@ -1,7 +1,7 @@
 DELIMITER //
 
 
-DROP FUNCTION test_task.DifHours;
-DROP FUNCTION test_task.DifHoursBehindDates;
+DROP FUNCTION training_task.DifHours;
+DROP FUNCTION training_task.DifHoursBehindDates;
 
 DELIMITER ;

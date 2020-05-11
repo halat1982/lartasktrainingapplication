@@ -1,6 +1,6 @@
 SET GLOBAL log_bin_trust_function_creators = 1;
 DELIMITER //
-CREATE FUNCTION test_task.DifHours(find DATETIME, std DATETIME, ratetime INT)
+CREATE FUNCTION training_task.DifHours(find DATETIME, std DATETIME, ratetime INT)
     RETURNS INT
 
 BEGIN
@@ -34,7 +34,7 @@ BEGIN
 END;
 //
 
-CREATE FUNCTION test_task.DifHoursBehindDates(find DATETIME, std DATETIME)
+CREATE FUNCTION training_task.DifHoursBehindDates(find DATETIME, std DATETIME)
     RETURNS INT
 
 BEGIN

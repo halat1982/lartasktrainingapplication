@@ -1,1 +1,1 @@
-CREATE DATABASE IF NOT EXISTS `test_task` CHARACTER SET utf8 COLLATE utf8_general_ci;
+CREATE DATABASE IF NOT EXISTS `training_task` CHARACTER SET utf8 COLLATE utf8_general_ci;
